@@ -1,1 +1,8 @@
 remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "plum" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+locale: "en-US"
+title: "Boom! A Website Appears"
+title_separator: "|"
+name: "Emma C. Humphries"
+url: "https://emmas.site"
+baseurl: "/boom-website"
