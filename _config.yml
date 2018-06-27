@@ -9,6 +9,7 @@ baseurl: "/boom-website"
 # Reading Files
 include:
   - _pages
+  - _posts
 defaults:
   # _posts
   - scope:
