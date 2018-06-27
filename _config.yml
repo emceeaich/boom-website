@@ -6,4 +6,6 @@ title_separator: "|"
 name: "Emma C. Humphries"
 url: "https://emmas.site"
 baseurl: "/boom-website"
-include: ["_pages"]
+# Reading Files
+include:
+  - _pages
